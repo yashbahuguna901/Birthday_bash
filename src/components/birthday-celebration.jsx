@@ -26,7 +26,7 @@ export default function BirthdayCelebration() {
           <Sparkles className="w-8 h-8 text-yellow-500" />
           <Heart className="w-8 h-8 text-pink-500" />
         </div>
-        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">To My Cutiepie</h3>
+        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">To Mansi Ji 💪</h3>
       </motion.div>
 
       <motion.div
@@ -87,9 +87,8 @@ export default function BirthdayCelebration() {
               transition={{ duration: 0.5 }}
             >
               <div className="text-center">
-                <p className="text-purple-700 mb-2">
-                Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
-                </p>
+                <p className="text-purple-700 mb-2 mt-8">
+I hope your day is filled with everything that makes you smile. I’m really glad to have you as a friend—your positivity makes life brighter. Wishing you a year full of happiness, new adventures, and everything you deserve. 🎉💛                </p>
                 <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
                 <div className="flex justify-center">
                   <motion.div
@@ -118,10 +117,10 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
+          May every wish you make today come true. You deserve the world, We're always be here to remind you of that.
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
+            <p className="text-pink-600 font-medium">Let’s always stay like this... forever, stronger, happier, healthier also wealthier 🫶</p>
           </div>
         </div>
       </motion.div>
